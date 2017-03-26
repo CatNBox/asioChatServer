@@ -1,0 +1,5 @@
+
+serverMain
+<< chatServer
+<< chatSession << boost/asio.hpp, boost/bind.hpp, iostream, vector, deque, string, algorithm
+<< charProtocol
